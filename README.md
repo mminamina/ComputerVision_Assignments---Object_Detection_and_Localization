@@ -1,7 +1,7 @@
 ## ComputerVision Assignments: Object Detection and Localization
 Object Detection and Localization Assignments
 ### Overview
-This repository contains code exercises for Udacity Computer Vision Object Detection+Localization(SLAM), which allow me to learn, test and implement various object motion and localization methods. 
+This repository contains my work for Udacity Computer Vision Object Detection+Localization(SLAM) assignments, which allow me to learn, test and implement various object motion and localization methods. 
 
 For assignment instructions and required software packages, please refer to https://github.com/udacity/CVND_Localization_Exercises
 
