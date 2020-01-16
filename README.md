@@ -17,10 +17,10 @@ For assignment instructions and required software packages, please refer to http
 ### Robot Localization
 1. Explore robot world
 2. Compute probabilities after Sense
-3. Build and implement Sense Function
-4. Build and implement Normalized Sense Function
+3. Build and implement **Sense Function**
+4. Build and implement **Normalized Sense Function**
 5. Apply multiple measurements
-6. Incorporate Move Function (Motion) into sensor measurements
+6. Incorporate **Move Function** (**Motion**) into sensor measurements
 7. Inject Uncertainty into move function to introduce randomness+generalization
 8. Test robot's multiple movements
 9. Implement the cycle of Sense & Move
@@ -33,14 +33,14 @@ For assignment instructions and required software packages, please refer to http
 - Implement debugger
 
 ### Kalman Filters
-1. Apply Gaussians for uncertainty
-2. Add new Mean+Variance for updated Gaussian (adding new info/measurement)
-3. Incorporate Motion into Gaussian & write Predict Function with motion update
-4. Implement Kalman Filter code to loop through the process cycle (sense, measure, move)
+1. Apply **Gaussians** for **uncertainty**
+2. Add new **Mean+Variance** for updated Gaussian (adding new info/measurement)
+3. Incorporate Motion into Gaussian & write **Predict Function** with motion update
+4. Implement Kalman Filter code to loop through the process cycle (**sense, measure, move**)
 
 ### State and Motion
 - Learn how to move and turn the car
-- Create and play around with car object (movement+turning)
+- Create and play around with car object (**movement**+**turning**)
 - Setup and move around multiple colorful cars
 - Define color object
 - Modify predict-state function to use matrix multiplication
@@ -48,17 +48,17 @@ For assignment instructions and required software packages, please refer to http
 ### Matrices and Transformation of State
 - Vector Coding
 - Matrices in Python
-- Different Matrix calculations (Addition, Multiplication, Transpose, Inverse, Identity)
+- Different Matrix calculations (**Addition**, **Multiplication**, **Transpose**, **Inverse**, **Identity**)
 
 ### SLAM
-1. Construct Omega and Xi
-2. Update constraint matrices with Landmark sensor measurements+motion
+1. Construct **Omega** and **Xi**
+2. Update constraint matrices with **Landmark sensor measurements**+**motion**
 3. Adjust to test different confidence levels of measurements
 
 ### Vehicle Motion and Calculus
-1. Approach Instantaneous Speed
-2. Implement an Accelerometer
-3. Plotting Position vs Time
+1. Approach **Instantaneous Speed**
+2. Implement an **Accelerometer**
+3. Plotting **Position** vs **Time**
 4. Speed from Position Data
 5. Understanding the Derivative
 6. data generator
