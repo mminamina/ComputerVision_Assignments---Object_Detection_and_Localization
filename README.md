@@ -63,7 +63,7 @@ For assignment instructions and required software packages, please refer to http
 5. Understanding the Derivative
 6. data generator
 
-#### Packages Used
+#### Packages 
 Python 3.6, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
