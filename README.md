@@ -64,6 +64,6 @@ For assignment instructions and required software packages, please refer to http
 6. data generator
 
 #### Packages 
-Python 3.6, Pytorch
+Python, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
